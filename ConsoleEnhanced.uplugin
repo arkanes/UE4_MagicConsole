@@ -14,7 +14,6 @@
 	"EnabledByDefault": true,
 	"CanContainContent": false,
 	"IsBetaVersion": false,
-	"Installed": true,
 	"Modules": [
 		{
 			"Name": "ConsoleEnhanced",
